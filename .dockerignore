@@ -1,0 +1,33 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+.weatherappenv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Git metadata
+.git/
+.gitignore
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment files and secrets
+.env
+.env.*
+
+# Logs and test files
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
